@@ -16,7 +16,7 @@
     "illuminate/support": "5.0.* || 5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.*",
     "sebastian-berc/repositories": "^1.0",
     "nesbot/carbon": "^1.21",
-    "pusher/pusher-php-server": "^3.0"
+    "pusher/pusher-php-server": "3.0.1"
   },
   "require-dev": {
     "graham-campbell/testbench": "^3.1",
